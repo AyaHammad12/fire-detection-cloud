@@ -28,7 +28,8 @@ The system is physically separated into Room A and Room B.
 ## Logical Topology
 The logical connections of the system are represented in the following diagram.
 
-<img width="879" height="346" alt="Image" src="https://github.com/user-attachments/assets/8692799d-8aa0-4722-b80a-39f3944e247b" />
+<img src="https://github.com/user-attachments/assets/8692799d-8aa0-4722-b80a-39f3944e247b" alt="Logical topology" width="500"/>
+
 **Figure 2:** Logical topology.
 
 ---
@@ -36,17 +37,12 @@ The logical connections of the system are represented in the following diagram.
 ## Simulation Results
 Screenshots of the running simulation (plots and textual console) to show results and expected behavior.
 
-<img width="975" height="347" alt="Image" src="https://github.com/user-attachments/assets/29e3c8a4-1bfe-44b2-bcaf-14e166e74675" />
+Simulation 1
 
-**Figure 3:** Running simulation 1.
+| <img src="https://github.com/user-attachments/assets/29e3c8a4-1bfe-44b2-bcaf-14e166e74675" alt="Sim1" width="500"/>
 
-<img width="653" height="838" alt="Image" src="https://github.com/user-attachments/assets/772d3b3e-28dc-4bdf-999b-a8132504b142" />
+| Simulation 2 | Simulation 3 |
+|--------------|--------------|
+| <img src="https://github.com/user-attachments/assets/772d3b3e-28dc-4bdf-999b-a8132504b142" alt="Sim2" width="500"/> | <img src="https://github.com/user-attachments/assets/11aeed73-38b6-499f-a92b-703e559a9c47" alt="Sim3" width="500"/> |
 
-**Figure 4:** Running simulation 2.
-
-<img width="730" height="478" alt="Image" src="https://github.com/user-attachments/assets/11aeed73-38b6-499f-a92b-703e559a9c47" />
-
-**Figure 5:** Running simulation 3.
-
----
-
+**Figure 3–5:** Simulation outputs showing sensor readings, system behavior, and expected results.
