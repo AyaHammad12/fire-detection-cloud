@@ -20,6 +20,7 @@ This design illustrates the interaction between physical components, the logical
 The system is physically separated into Room A and Room B.
 
 <img width="821" height="424" alt="Image" src="https://github.com/user-attachments/assets/8eddb3bc-e076-44e4-959a-2439df2a828b" />
+
 **Figure 1:** Physical layout: Room A and Room B with sensor locations (Smoke, CO₂, Fire, Engine Temp).
 
 ---
@@ -36,17 +37,16 @@ The logical connections of the system are represented in the following diagram.
 Screenshots of the running simulation (plots and textual console) to show results and expected behavior.
 
 <img width="975" height="347" alt="Image" src="https://github.com/user-attachments/assets/29e3c8a4-1bfe-44b2-bcaf-14e166e74675" />
+
 **Figure 3:** Running simulation 1.
 
 <img width="653" height="838" alt="Image" src="https://github.com/user-attachments/assets/772d3b3e-28dc-4bdf-999b-a8132504b142" />
+
 **Figure 4:** Running simulation 2.
 
 <img width="730" height="478" alt="Image" src="https://github.com/user-attachments/assets/11aeed73-38b6-499f-a92b-703e559a9c47" />
+
 **Figure 5:** Running simulation 3.
 
 ---
 
-## Notes
-- All components and connections are represented according to the project design.  
-- Follow the logical topology to ensure accurate simulation results.  
-- Place all images in the `images` folder for proper display on GitHub.
